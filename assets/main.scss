@@ -4,3 +4,12 @@
 $brand-color: #1f73e0; // slightly darker for accessibility
 
 @import "minima";
+
+.svg-icon--large {
+  $size: 32px;
+  @extend .svg-icon;
+
+  fill: unset;
+  height: $size;
+  width: $size;
+}
