@@ -19,3 +19,17 @@ show_excerpts: true
 theme: minima
 title: cruice.net
 twitter_username: atcruice
+
+# jekyll-seo-tag
+facebook:
+  publisher: atcruice
+logo: /assets/ulam_spiral_5.svg
+social:
+  links:
+    - "https://github.com/atcruice"
+    - "https://www.facebook.com/atcruice"
+    - "https://www.linkedin.com/in/atcruice"
+    - "https://www.twitter.com/atcruice"
+twitter:
+  card: summary
+  username: atcruice
