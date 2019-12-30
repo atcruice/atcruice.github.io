@@ -1,0 +1,6 @@
+{%- assign words_per_minute = 180 -%}
+{%- assign words_per_half_minute = words_per_minute | divided_by: 2 -%}
+{%- assign word_count = content | strip_html | number_of_words -%}
+{%- assign rounding = word_count | modulo: words_per_minute | divided_by: words_per_half_minute -%}
+{%- assign minutes = word_count | divided_by: words_per_minute | plus: rounding -%}
+<span itemprop="timeRequired" content="PT{{ minutes }}M">{{ minutes }} minute read</span>
