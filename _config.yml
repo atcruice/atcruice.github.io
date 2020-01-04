@@ -6,19 +6,19 @@ author: Alex Cruice
 description: rhymes with juice
 disqus:
   shortname: atcruice
-email: alex.cruice@gmail.com
-facebook_username: atcruice
+# email: alex.cruice@gmail.com
+# facebook_username: atcruice
 github_username: atcruice
 header_pages: []
 lang: en-AU
-linkedin_username: atcruice
+# linkedin_username: atcruice
 minima:
   date_format: "%-d %B %Y"
 rss: RSS
 show_excerpts: true
 theme: minima
 title: cruice.net
-twitter_username: atcruice
+# twitter_username: atcruice
 
 # jekyll-seo-tag
 facebook:
