@@ -5,6 +5,26 @@ $brand-color: #1f73e0; // slightly darker for accessibility
 
 @import "minima";
 
+dt {
+  font-weight: bold;
+}
+
+dd {
+  margin-left: 1em;
+}
+
+.centre--horizontal {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.flex-row--evenly {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
 .post-meta {
   > * + ::before {
     $padding: 0.5em;
