@@ -14,7 +14,7 @@ lang: en-AU
 # linkedin_username: atcruice
 minima:
   date_format: "%-d %B %Y"
-rss: RSS
+rss: false
 show_excerpts: true
 theme: minima
 title: cruice.net

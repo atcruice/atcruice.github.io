@@ -5,5 +5,7 @@
   {% seo -%}
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
-  {% feed_meta %}
+  {%- if site.rss -%}
+    {% feed_meta %}
+  {%- endif -%}
 </head>
