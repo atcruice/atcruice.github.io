@@ -33,3 +33,11 @@ social:
 twitter:
   card: summary
   username: atcruice
+
+exclude:
+  - "CNAME"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "nix/"
+  - "shell.nix"
+  - "tags"
