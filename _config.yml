@@ -38,6 +38,7 @@ exclude:
   - "CNAME"
   - "Gemfile"
   - "Gemfile.lock"
+  - "bin/"
   - "nix/"
   - "shell.nix"
   - "tags"
