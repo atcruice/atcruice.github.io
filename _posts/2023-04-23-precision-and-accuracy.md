@@ -1,7 +1,7 @@
 ---
 author: Alex Cruice
 categories:
-    - long range shooting
+    - long-range-shooting
 tags: []
 title: "Long range shooting: Precision and accuracy"
 ---
