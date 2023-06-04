@@ -13,6 +13,12 @@ dd {
   margin-left: 1em;
 }
 
+.callout {
+  background-color: $grey-color-light;
+  border-radius: $spacing-unit / 2;
+  padding: $spacing-unit / 2;
+}
+
 .centre--horizontal {
   display: block;
   margin-left: auto;

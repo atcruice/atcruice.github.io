@@ -7,11 +7,8 @@ title: "Long range shooting: Centrefire cartridge design"
 
 Appreciating how modern centrefire rounds work helps a long range shooter understand performance and accuracy factors, select the best bullet for the job, and develop the best load for their rifle.
 
----
-
 _Caveat: I'm not writing from a position of authority. I picked up a new hobby, and writing short articles is a way to document my learning, and encourage further study._
-
----
+{: .callout}
 
 A quick, general comparison of modern ammunition design.
 

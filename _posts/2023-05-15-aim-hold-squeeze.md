@@ -7,11 +7,8 @@ title: "Long range shooting: Aim, hold, and squeeze"
 
 While there are a staggering number of variables that influence the flight of a bullet, successful shooting still relies on the skill of the shooter; their ability to aim correctly, hold that aim as best as possible, and execute good trigger control.
 
----
-
 _Caveat: I'm not writing from a position of authority. I picked up a new hobby, and writing short articles is a way to document my learning, and encourage further study._
-
----
+{: .callout}
 
 ## Aim
 
