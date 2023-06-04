@@ -7,11 +7,8 @@ title: "Long range shooting: Bullet velocity"
 
 Bullet velocity is one of the primary variables that go into calculating a trajectory. Achieving a sufficient and consistent muzzle velocity is a major consideration for shooters developing their own load (assembling cartridges themselves, instead of purchasing factory-produced ammunition).
 
----
-
 _Caveat: I'm not writing from a position of authority. I picked up a new hobby, and writing short articles is a way to document my learning, and encourage further study._
-
----
+{: .callout}
 
 Factory rifles and factory ammunition achieve acceptable accuracy and precision for their intended purposes. However, competitive long range shooters desire better results, so they have customised rifles and ammunition. Dedicated shooters pay attention to a number of factors that affect bullet velocity.
 

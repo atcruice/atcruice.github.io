@@ -8,11 +8,8 @@ title: "Long range shooting: Precision and accuracy"
 
 Good long range shooting requires both precision and accuracy. Precise shooting means, given the same input conditions, the rounds end up in the same spot. Accurate shooting means you're aiming for the centre of your target, and accommodating for conditions. An accurate shot, from a precise rifle, strikes the centre of the target.
 
----
-
 _Caveat: I'm not writing from a position of authority. I picked up a new hobby, and writing short articles is a way to document my learning, and encourage further study._
-
----
+{: .callout}
 
 ## Precision
 

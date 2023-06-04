@@ -7,11 +7,8 @@ title: "Long range shooting: Minute of angle"
 
 _Minute of angle_ (MOA) is a unit of angular measurement, like [degree](https://en.wikipedia.org/wiki/Degree_(angle)) or [radian](https://en.wikipedia.org/wiki/Radian). It is a subdivision of a degree, 1/60th. Just as there are 60 minutes in 1 hour, there are 60 minutes in 1 degree. Minutes of angle are used as a common unit to describe sight corrections in long range shooting.
 
----
-
 _Caveat: I'm not writing from a position of authority. I picked up a new hobby, and writing short articles is a way to document my learning, and encourage further study._
-
----
+{: .callout}
 
 The rule of thumb is, _1MOA equates to 1 inch per 100 yards_. So if you were shooting at 300 yards, and the bullet impact was 3 inches to the right of centre, you would compensate by adjusting your sight by 1MOA to the left, and take another shot anticipating a more accurate impact.
 
