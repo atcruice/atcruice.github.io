@@ -6,7 +6,7 @@ in
   mkBundlerAppDevShell {
     buildInputs = [
       pkgs.curl
-      pkgs.ruby
+      pkgs.ruby_3_3
     ];
     shellHook = ''
       export LD_LIBRARY_PATH=${pkgs.lib.makeLibraryPath [pkgs.curl]}
