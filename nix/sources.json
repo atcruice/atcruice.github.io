@@ -5,22 +5,22 @@
         "homepage": null,
         "owner": "thelookoutway",
         "repo": "bundler-app-dev-shell",
-        "rev": "9b554b3f82fcceec86389f7cd0b87f60e6dddc5e",
-        "sha256": "1i9xjdknzvk6kjr827h4ns24nyy7l3cakbzma8a3yaxkql5j8zk9",
+        "rev": "0faf901942bff14abb49f7e3b8d8e4edcea93331",
+        "sha256": "1jl3b3k68x3w1jxa7qq7dbcsiw68xnydbmgl3r61k36l7y5m1imc",
         "type": "tarball",
-        "url": "https://github.com/thelookoutway/bundler-app-dev-shell/archive/9b554b3f82fcceec86389f7cd0b87f60e6dddc5e.tar.gz",
+        "url": "https://github.com/thelookoutway/bundler-app-dev-shell/archive/0faf901942bff14abb49f7e3b8d8e4edcea93331.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     },
     "nixpkgs": {
-        "branch": "nixpkgs-unstable",
+        "branch": "release-25.11",
         "description": "Nix Packages collection",
         "homepage": "",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "4f02464258baaf54992debfd010a7a3662a25536",
-        "sha256": "0sq1fwqqmy7k2a4kvxp6nv3763xi9c29ldzqnwg78d9i6v1fkl2h",
+        "rev": "77d093dd3296dc0d252ff9d03d7ed7bc00a61ce1",
+        "sha256": "12r8biz7lwz1havqbfpfpx6c2jkgqbyk8n9f4nmd1mdc2kk1s6ym",
         "type": "tarball",
-        "url": "https://github.com/NixOS/nixpkgs/archive/4f02464258baaf54992debfd010a7a3662a25536.tar.gz",
+        "url": "https://github.com/NixOS/nixpkgs/archive/77d093dd3296dc0d252ff9d03d7ed7bc00a61ce1.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     }
 }
