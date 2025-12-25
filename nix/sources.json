@@ -5,10 +5,10 @@
         "homepage": null,
         "owner": "thelookoutway",
         "repo": "bundler-app-dev-shell",
-        "rev": "9b554b3f82fcceec86389f7cd0b87f60e6dddc5e",
-        "sha256": "1i9xjdknzvk6kjr827h4ns24nyy7l3cakbzma8a3yaxkql5j8zk9",
+        "rev": "0faf901942bff14abb49f7e3b8d8e4edcea93331",
+        "sha256": "1jl3b3k68x3w1jxa7qq7dbcsiw68xnydbmgl3r61k36l7y5m1imc",
         "type": "tarball",
-        "url": "https://github.com/thelookoutway/bundler-app-dev-shell/archive/9b554b3f82fcceec86389f7cd0b87f60e6dddc5e.tar.gz",
+        "url": "https://github.com/thelookoutway/bundler-app-dev-shell/archive/0faf901942bff14abb49f7e3b8d8e4edcea93331.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     },
     "nixpkgs": {
